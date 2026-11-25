@@ -48,4 +48,12 @@ Suggestions, corrections, and improvements are welcome. Please open an issue or 
 
 ## License
 
-A license has not yet been specified. Unless stated otherwise, project files should not be treated as free for redistribution or commercial use.
+A custom noncommercial license applies to the files in this repository.
+
+You may download, study, modify, and use the files for personal, educational, and noncommercial purposes.
+Commercial use is prohibited. This includes selling project designs or products made from this repository, or using the work to generate commercial revenue.
+Videos, presentations, and other public content featuring a project must mention Adam and link to this repository: github.com/AG-1elect/AG-projects
+Derivative projects must retain this repository's attribution.
+Redistribution must include a copy of this license.
+The files are provided “as is,” without warranty. The author is not responsible for injury, damage, or loss resulting from use.
+Commercial use or licensing inquiries should be directed to the repository owner.
